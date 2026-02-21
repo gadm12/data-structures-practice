@@ -1,0 +1,8 @@
+#folders
+.vscode/
+__pycache__/
+
+
+#files
+generate_table.py
+100_problem_plan.md
