@@ -1,40 +1,25 @@
-# LeetCode Data Structures and Algorithms
+# Data Structures Practice
 
-A collection of 100 LeetCode solutions in Python, JavaScript, and Java, organized by topic. This repository serves as a structured study plan completed in preparation for career as a software developer.
+This repository contains my solutions and practice exercises as I transition into software engineering through Code Platoon.
 
-## About
+## Structure
 
-This repository documents my progression through core data structures and algorithms concepts. Each solution includes the problem approach, time and space complexity analysis, and test cases. Problems are grouped by pattern to reinforce recognition of recurring techniques used in technical interviews and real-world development.
+### Codewars
 
-## Topics Covered
+Solutions to Codewars kata.
 
-- Arrays and Strings
-- Two Pointers and Sliding Window
-- Stacks and Queues
-- Linked Lists
-- Binary Search and Sorting
-- Trees
-- Graphs and Backtracking
-- Dynamic Programming, Heaps, and Greedy Algorithms
+### LeetCode
 
-## Repository Structure
+Solutions to LeetCode problems and data structure exercises.
 
-```
-data-structures-practice/
-├── 01-arrays-and-strings/
-├── 02-two-pointers-sliding-window/
-├── 03-stacks-and-queues/
-├── 04-linked-lists/
-├── 05-binary-search-and-sorting/
-├── 06-trees/
-├── 07-graphs-and-backtracking/
-├── 08-dp-heaps-greedy/
-└── README.md
-```
+## Goals
 
-## Solutions
+- Improve problem-solving skills
+- Practice data structures and algorithms
+- Build consistency through daily coding challenges
+- Prepare for technical interviews
 
-|  #  | Exercise Name |  Language  | Link to Code                                         |
-| :-: | :------------ | :--------: | :--------------------------------------------------- |
-|  1  | twoSum        | JavaScript | [twoSum.js](./01-arrays-and-strings/001-twoSum.js)   |
-|  1  | two_sum       |   Python   | [two_sum.py](./01-arrays-and-strings/001-two_sum.py) |
+## Technologies
+
+- Python
+- JavaScript
