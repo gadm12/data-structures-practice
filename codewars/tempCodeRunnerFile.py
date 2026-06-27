@@ -1,6 +1,3 @@
-def monkey_count(n):
-    
-    for num in range (n):
-        return num
-
-print(monkey_count(5))
+        print("before", arr[i], arr[-i])
+        arr[i], arr[-i] = arr[-i], arr[i]
+        print("after", arr[i], arr[-i])
