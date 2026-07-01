@@ -6,5 +6,5 @@ __pycache__/
 #files
 generate_table.py
 100_problem_plan.md
-_scratch.py
+codewars/_scratch.py
 _scratch2.py
