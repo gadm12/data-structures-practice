@@ -1,5 +1,9 @@
-def is_anagram(test, original):
+def bool_to_word(boolean):
+    if boolean == True:
+        return "Yes"
+    if boolean == False:
+        return "No"
     
-    return len(test)==len(original) and set(test.lower())==set(original.lower())
+print(bool_to_word("Yes"))
 
-print(is_anagram("Buckethead", "DeathCubeK"))
+print(bool_to_word("No"))
