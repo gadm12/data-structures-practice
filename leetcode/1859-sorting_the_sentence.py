@@ -7,8 +7,8 @@ class Solution:
         #     words.append(word[:-1])
 
         # return " ".join(words)
-        return " ".join[word[:-1] for word in sorted(s.split(), key=lambda i: i[-1], reverse=False)]
-
+        return " ".join([word[:-1] for word in sorted(s.split(), key=lambda i: i[-1], reverse=False)])
+        
 
 if __name__ == "__main__":
     sol = Solution()
