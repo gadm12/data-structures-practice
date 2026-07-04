@@ -1,15 +1,10 @@
-class Solution:
-    def sort_sentence(self, s: str) -> str:
-        # s = s.split()
-        # sorted_lst = sorted(s, key=lambda i: i[-1], reverse=False)
-        # words = []
-        # for word in sorted_lst:
-        #     words.append(word[:-1])
+def small_enough(array,limit):
+    
+    for num in array:
+        if num > limit:
+            return False
+    return True
+    
+print(small_enough([[78, 117, 110, 99, 104, 117, 107, 115] ,100]))
 
-        # return " ".join(words)
-        return " ".join[word[:-1] for word in sorted(s.split(), key=lambda i: i[-1], reverse=False)]
-
-
-if __name__ == "__main__":
-    sol = Solution()
-    print(sol.sort_sentence("is2 sentence4 This1 a3"))
+print(small_enough([[1, 2, 3, 4, 5, 6, 7, 8, 9] ,10]))
