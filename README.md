@@ -1,5 +1,7 @@
 # Data Structures Practice
 
+**DSA Practice:** https://gadm12.github.io/data-structures-practice/
+
 This repository contains my solutions and practice exercises as I transition into software engineering through Code Platoon.
 
 ## Structure
