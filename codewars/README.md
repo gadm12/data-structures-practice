@@ -1,5 +1,7 @@
 # Codewars Python Practice
 
+**DSA Practice:** https://gadm12.github.io/data-structures-practice/
+
 A collection of Python solutions to Codewars challenges ranging from beginner fundamentals to more advanced algorithmic problems. This repository documents my daily practice as I build strong programming fundamentals and prepare for technical interviews.
 
 ## About
